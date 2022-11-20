@@ -1,1 +1,7 @@
 3d ct scan-https://github.com/hasibzunair/3D-image-classification-tutorial/releases/tag/v0.2
+
+Pneumonia -  train_images = gs://download.tensorflow.org/data/ChestXRay2017/train/images.tfrec
+
+            train_paths = gs://download.tensorflow.org/data/ChestXRay2017/train/paths.tfrec
+
+
